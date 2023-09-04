@@ -1,0 +1,24 @@
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS Changer.csproj.AssemblyReference.cache
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS Changer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS_Changer.Properties.Resources.resources
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS Changer.csproj.GenerateResource.cache
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS Changer.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\DNS Changer\bin\Debug\DNS Changer.exe.config
+D:\Projects\C# Projects\DNS Changer\bin\Debug\DNS Changer.exe
+D:\Projects\C# Projects\DNS Changer\bin\Debug\DNS Changer.pdb
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS_Changer.DNS_Changer.resources
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS Changer.exe
+D:\Projects\C# Projects\DNS Changer\obj\Debug\DNS Changer.pdb
+D:\Projects\C# Projects\DNS Changer\obj\Debug\CustomControls.RJControls.CustomTextBox.resources
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\bin\Debug\DNS Changer.exe.config
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\bin\Debug\DNS Changer.exe
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\bin\Debug\DNS Changer.pdb
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS Changer.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS Changer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS_Changer.DNS_Changer.resources
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS_Changer.Properties.Resources.resources
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\CustomControls.RJControls.CustomTextBox.resources
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS Changer.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS Changer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS Changer.exe
+C:\Users\Asus\Documents\GitHub\DNS-Changer\DNS Changer\obj\Debug\DNS Changer.pdb
